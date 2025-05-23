@@ -1,6 +1,6 @@
 ## oi ;)
 
-![imagem do octodex](http://octodex.github.com/imagens/pythocat.png)
+<img src=http://octodex.github.com/imagens/pythocat.png width="200">
 <!--
 **gihhbernardo/gihhbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
