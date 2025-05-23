@@ -1,5 +1,5 @@
-## prazer eu sou a gih
-![imagem  octodex](htt://octodex.github.com/imagens/pythocat.png)
+## oi ;)
+![imagem  octodex](http://octodex.github.com/imagens/pythocat.png)
 <!--
 **gihhbernardo/gihhbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
