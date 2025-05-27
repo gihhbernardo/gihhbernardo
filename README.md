@@ -1,6 +1,6 @@
 ## oi ;)
 
-<img align='right https://octodex.github.com/spidertocat/' width='200px'>
+<img align="right" src="https://octodex.github.com/images/spidertocat.png" width="200px">
 <!--
 **gihhbernardo/gihhbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
